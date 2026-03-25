@@ -72,7 +72,6 @@ E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debu
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\MailKit.dll.config
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\MimeKit.pdb
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\MimeKit.xml
-E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\MimeKit.dll.config
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\System.Buffers.xml
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\System.Formats.Asn1.xml
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\System.Memory.xml
@@ -80,7 +79,6 @@ E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debu
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\System.Text.Encoding.CodePages.xml
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\System.Threading.Tasks.Extensions.xml
-E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Debug\System.ValueTuple.xml
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\obj\Debug\LaRottaO.CSharp.Utils.Email.csproj.AssemblyReference.cache
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\obj\Debug\LaRottaO.CSharp.Utils.Email.csproj.CoreCompileInputs.cache
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\obj\Debug\LaRottaO.7AF47E1F.Up2Date

@@ -56,7 +56,5 @@ E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Rele
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Release\System.ValueTuple.dll
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Release\BouncyCastle.Cryptography.xml
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Release\MailKit.dll.config
-E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Release\MimeKit.dll.config
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Release\System.Formats.Asn1.xml
 E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Release\System.Text.Encoding.CodePages.xml
-E:\Repositorios\LaRottaO.CSharp.Utils.Email\LaRottaO.CSharp.Utils.Email\bin\Release\System.ValueTuple.xml
